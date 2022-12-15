@@ -44,3 +44,8 @@ circum_of_circle = print(2 * 3.142 * radius)
 rad = int(input("Enter a radius: "))
 area = 3.142 * (rad ** 2)
 print(area)
+
+firstName = input("Enter your first name: ")
+lastName = input("Enter your last name: ")
+country = input("Enter your country: ")
+age1 = int(input("How old are you?: "))
