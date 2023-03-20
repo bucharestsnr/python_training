@@ -1,6 +1,7 @@
 print(3 + 4) #addition
 print(4 - 3) #subtraction
 print(4 % 3) #modulus
+print(4 * 3) #multiplication
 print(4 / 3) #division
 print(3 ** 4) #exponential
 print(4 // 3) #floor division operator
