@@ -45,6 +45,10 @@ rad = int(input("Enter a radius: "))
 area = 3.142 * (rad ** 2)
 print(area)
 
+#rad = int(input("Enter a rsdius: "))
+#circum_of_circle = 2 * 3.142 * rad
+#print(circum_of_circle)
+
 firstName = input("Enter your first name: ")
 lastName = input("Enter your last name: ")
 country = input("Enter your country: ")

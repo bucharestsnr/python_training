@@ -5,7 +5,6 @@ print(4 // 3) #floor division operator
 print(4 * 3) #multiplication
 print(4 / 3) #division
 print(3 ** 4) #exponential
-print(4 // 3) #floor division operator
 
 #Euclidean distance
 #between (2,3) and (10,8)
