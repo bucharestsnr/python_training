@@ -17,6 +17,7 @@ student = {
 student['skills'].append('Python')
 student['skills'].append('Node')
 #print(student)
+keys = student['keys']
 keys = student.keys()
 #print(keys)
 values = student.values()

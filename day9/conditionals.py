@@ -34,15 +34,15 @@ else:
 #4
 grade = int(input("Enter your score: "))
 if grade >= 80 and grade <= 100:
-    print("You have A")
+    print("Congratulations! You have A")
 elif grade >= 70 and grade <= 79:
-    print("You have B")
+    print("Congratulations! You have B")
 elif grade >= 60 and grade <= 69:
-    print("You have C")
+    print("Congratulations! You have C")
 elif grade >= 50 and grade <= 59:
-    print("You have D")
+    print("Congratulations! You have D")
 else:
-    print("You have F")
+    print("Congratulations! You have F")
 
 
 #5
